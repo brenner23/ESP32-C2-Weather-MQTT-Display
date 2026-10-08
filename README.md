@@ -271,7 +271,7 @@ Country
 Example:
 
 ```text
-City:    Frelsdorf
+City:    Köln
 Country: DE
 ```
 
@@ -859,7 +859,7 @@ Land
 Beispiel:
 
 ```text
-Ort:  Frelsdorf
+Ort:  Köln
 Land: DE
 ```
 
